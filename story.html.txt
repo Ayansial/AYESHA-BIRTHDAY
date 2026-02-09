@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Our Story</title>
+<style>
+body{background:#ff9a9e;color:white;font-family:Arial;text-align:center;padding:60px}
+a{background:white;color:#ff4d6d;padding:12px 25px;border-radius:25px;text-decoration:none}
+</style>
+</head>
+<body>
+
+<h1>Our Story 💖</h1>
+
+<p>
+1.5 years together 🕊️<br>
+Distance never reduced our love 🌍<br>
+You in Luton 🇬🇧 — Me in Pakistan 🇵🇰<br>
+But hearts always connected ❤️
+</p>
+
+<a href="questions.html">A Few Questions 😌</a>
+
+</body>
+</html>

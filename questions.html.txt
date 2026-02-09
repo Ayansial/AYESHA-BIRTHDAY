@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Questions</title>
+<style>
+body{background:#fad0c4;font-family:Arial;text-align:center;padding:60px}
+.box{background:white;padding:30px;border-radius:20px}
+a{display:block;margin-top:20px;text-decoration:none;color:#ff4d6d}
+</style>
+</head>
+<body>
+
+<div class="box">
+<h2>Just From My Heart 💭</h2>
+
+<p>
+💖 Do you love me truly?<br><br>
+💍 Do you see me in your future?<br><br>
+🌍 Even with distance, will you stay with me?<br><br>
+😊 Do I make you feel safe and happy?
+</p>
+
+<a href="future.html">Future & Distance 🌍</a>
+</div>
+
+</body>
+</html>

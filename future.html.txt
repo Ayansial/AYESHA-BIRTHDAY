@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Future</title>
+<style>
+body{background:#ffb6c1;color:white;font-family:Arial;text-align:center;padding:60px}
+a{background:white;color:#ff4d6d;padding:12px 25px;border-radius:25px;text-decoration:none}
+</style>
+</head>
+<body>
+
+<h1>Our Future 🌸</h1>
+
+<p>
+Even if I don’t reach UK soon,<br>
+I believe we will meet one day 🤍<br><br>
+Distance is temporary,<br>
+Love is permanent ❤️
+</p>
+
+<a href="note.html">Final Note 💌</a>
+
+</body>
+</html>

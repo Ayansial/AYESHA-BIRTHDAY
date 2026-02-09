@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For Ayesha</title>
+<style>
+body{background:#ff4d6d;color:white;font-family:Arial;text-align:center;padding:60px}
+</style>
+</head>
+<body>
+
+<h1>My Love 💖</h1>
+
+<p>
+Ayesha,<br><br>
+I love you so much 🤍<br>
+Talking to you daily makes my heart peaceful 🌙<br><br>
+
+If I ever make mistakes,<br>
+Please forgive me 🌸<br><br>
+
+Love may have arguments,<br>
+But true love never ends ❤️<br><br>
+
+I want to spend my life with you,<br>
+Grow together, smile together 🌹<br><br>
+
+Forever yours,<br>
+❤️
+</p>
+
+</body>
+</html>

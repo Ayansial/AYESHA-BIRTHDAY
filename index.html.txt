@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch Ayesha ❤️</title>
+<style>
+body{background:#ff758c;color:white;font-family:Arial;text-align:center;padding:60px}
+a{display:inline-block;margin:20px;padding:12px 25px;
+background:white;color:#ff4d6d;text-decoration:none;border-radius:25px}
+</style>
+</head>
+<body>
+
+<h1>Happy 18th Birthday 🎂</h1>
+<h2>Ch Ayesha ❤️</h2>
+
+<p>
+9 February ✨<br>
+Your first birthday with me 💖<br>
+From UK (Luton) to Pakistan — heart to heart 💕
+</p>
+
+<a href="story.html">Our Story 💑</a>
+
+</body>
+</html>
