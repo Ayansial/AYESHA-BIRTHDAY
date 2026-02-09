@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Our Story</title>
+<title>Our Story 💖</title>
 <style>
-body{background:#ff9a9e;color:white;font-family:Arial;text-align:center;padding:60px}
-a{background:white;color:#ff4d6d;padding:12px 25px;border-radius:25px;text-decoration:none}
+body{
+  background:#ff9a9e;
+  color:white;
+  font-family:Arial;
+  text-align:center;
+  padding:60px
+}
+a{
+  display:inline-block;
+  margin-top:25px;
+  padding:12px 25px;
+  background:white;
+  color:#ff4d6d;
+  border-radius:25px;
+  text-decoration:none
+}
 </style>
 </head>
 <body>
@@ -15,10 +29,11 @@ a{background:white;color:#ff4d6d;padding:12px 25px;border-radius:25px;text-decor
 1.5 years together 🕊️<br>
 Distance never reduced our love 🌍<br>
 You in Luton 🇬🇧 — Me in Pakistan 🇵🇰<br>
-But hearts always connected ❤️
+But our hearts always stayed connected ❤️
 </p>
 
-<a href="questions.html">A Few Questions 😌</a>
+<a href="questions.html">A Few Questions 😌</a><br><br>
+<a href="index.html">Back to Home 🏠</a>
 
 </body>
 </html>
